@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="greenield_brownfield" data-name="greenield brownfield" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0071c7;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="131.66" y="107.36" width="26.11" height="157.11"/>
+  <polyline class="cls-1" points="157.67 107.36 131.56 147.21 157.67 147.21"/>
+  <polyline class="cls-1" points="157.67 146.44 131.56 186.3 157.67 186.3"/>
+  <polyline class="cls-1" points="157.67 185.52 131.56 225.38 157.67 225.38"/>
+  <polyline class="cls-1" points="157.67 224.61 131.56 264.47 157.67 264.47"/>
+  <polygon class="cls-1" points="167.28 329.5 144.72 329.5 122.15 329.5 105.63 346.03 105.63 352.9 144.72 352.9 183.81 352.9 183.81 346.03 167.28 329.5"/>
+  <rect class="cls-1" x="122.15" y="276.25" width="45.13" height="53.25"/>
+  <rect class="cls-1" x="122.15" y="264.47" width="45.13" height="11.78"/>
+  <rect class="cls-1" x="122.15" y="302.87" width="45.13" height="26.63"/>
+  <circle class="cls-1" cx="144.72" cy="32.37" r="6.32"/>
+  <path class="cls-1" d="M151.04,32.37c0,3.49-2.83,6.32-6.32,6.32s-6.32-2.83-6.32-6.32l-6.73,56.39h26.11l-6.73-56.39Z"/>
+  <rect class="cls-1" x="40.09" y="71.16" width="34.37" height="23.33"/>
+  <path class="cls-1" d="M191.2,107.36h-33.43v39.86h24.82c4.74,0,8.61-3.88,8.61-8.61v-31.25Z"/>
+  <path class="cls-1" d="M167.16,107.36v18.43c0,4.74,3.88,8.61,8.61,8.61h15.43"/>
+  <line class="cls-1" x1="57.28" y1="71.16" x2="140.96" y2="27.28"/>
+  <line class="cls-1" x1="147.43" y1="26.65" x2="339.61" y2="88.75"/>
+  <line class="cls-1" x1="148.47" y1="27.28" x2="235.36" y2="88.75"/>
+  <polyline class="cls-1" points="339.61 88.75 339.61 107.36 308.09 88.75"/>
+  <polyline class="cls-1" points="308.09 88.75 308.09 107.36 276.56 88.75"/>
+  <line class="cls-1" x1="267.87" y1="102.23" x2="245.03" y2="88.75"/>
+  <line class="cls-1" x1="276.56" y1="88.75" x2="276.56" y2="102.23"/>
+  <polyline class="cls-1" points="245.03 88.75 245.03 107.36 213.51 88.75"/>
+  <polyline class="cls-1" points="213.51 88.75 213.51 107.36 181.98 88.75"/>
+  <polyline class="cls-1" points="181.98 88.75 181.98 107.36 150.46 88.75"/>
+  <polyline class="cls-1" points="150.46 88.75 150.46 107.36 118.93 88.75"/>
+  <polyline class="cls-1" points="118.93 88.75 118.93 107.36 87.41 88.75"/>
+  <line class="cls-1" x1="270.18" y1="112.48" x2="270.18" y2="191.4"/>
+  <rect class="cls-1" x="260.47" y="102.23" width="19.41" height="10.26"/>
+  <rect class="cls-1" x="40.09" y="94.5" width="11.46" height="43.23"/>
+  <rect class="cls-1" x="51.55" y="94.5" width="11.46" height="43.23"/>
+  <rect class="cls-1" x="63.01" y="94.5" width="11.46" height="43.23"/>
+  <polygon class="cls-1" points="367.7 107.36 339.61 88.75 87.27 88.75 81.53 94.5 74.46 94.5 74.46 107.36 260.47 107.36 260.47 102.23 279.88 102.23 279.88 107.36 367.7 107.36"/>
+</svg>
